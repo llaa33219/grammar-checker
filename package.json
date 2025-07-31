@@ -1,0 +1,15 @@
+{
+  "name": "grammar-checker",
+  "version": "1.0.0",
+  "description": "다국어 문법 검사 사이트 - Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "dependencies": {}
+} 
